@@ -1,0 +1,12 @@
+.card{
+    background-color: white;
+    box-shadow: 0 0 3px rgba(0, 0, 0.1);
+}
+
+table{
+    border: 1px solid #cdcdcd;
+}
+
+.br-3{
+    border-radius: 3px;
+}
